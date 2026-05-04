@@ -126,7 +126,7 @@ docker compose up --build
 ## 👨‍💻 Author
 
 **Your Name**
-GitHub: https://github.com/your-username
+GitHub: https://github.com/shaktisingh647/django-docker-nginx-mysql-app
 
 ---
 
